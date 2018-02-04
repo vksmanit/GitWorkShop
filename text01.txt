@@ -1,5 +1,55 @@
 So now the question is what is a Version Control System? Version Control is a system that records all the changes you do to your files and logs them. This enables you to go back to them and start working on your files from that point. It's basically like time travel. If while working on your files you realise that you have done something majorly wrong but can't sit and undo every change. The best option for you is to ask your version control system to simply go back to the instance from where you want to start again. There is a slight difference between Git and other version control systems. Usually VCSs, store all the files again when you ask it to. But Git instead of saving all the files only saves the files in which changes have been made. To be efficient, if files have not changed, Git doesn’t store the file again, just a link to the previous identical file it has already stored. Checkout this link for installing Git. 
 
+
+
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+fad.xmc.mzvx.mc.zm.vmc.mzmfdlm.mvxc.mzlvmlkdjfglkajlkjdflkalkfd;lkadf;k rioutigop lklasdjflknlk anlf jfljdsaldfjlkaj lkjfla jjaf
+
+
 that you have your repository locally with you it's time for you make changes and build your project. So now comes the major part and the actually reason as why we used Git(Version Control) at all. After you complete something substantial like fixing a bug or adding a new feature you should save the instance of your files aka commit. To see the changes you have made since the last commit run 
 
 
